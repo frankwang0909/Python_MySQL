@@ -7,7 +7,7 @@
 
 ## 二、 Python DB API
 
-Python应用程序（包含SQL) --> Python DB API（访问数据库的统一规范借口） --> MySQL / Oracle / SQLServer等数据库
+Python应用程序（包含SQL) --> Python DB API（访问数据库的统一规范接口） --> MySQL / Oracle / SQLServer等数据库
 
 1.数据库连接对象：connection
 
